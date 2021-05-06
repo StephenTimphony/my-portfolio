@@ -10,8 +10,8 @@ const Home = () => {
         <section className ="bg-blue-800 bg-opacity-75 rounded-lg shadow-2xl lg:flex p-20">
           <img src=''/>
           <div className="text-lg flex flex-col justify-center">
-            <h1 className=" roboto text-6xl text-green-300 mb-4">
-              <span className="text-green-100"> Hello, I'm Stephen Timphony and welcome to my page!</span></h1>
+            <h1 className=" roboto text-6xl text-white-300 mb-4">
+              <span className="text-white"> Hello, I'm Stephen Timphony and welcome to my page!</span></h1>
             <div className="prose lg:prose-xl text-white">
               
             </div>
